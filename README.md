@@ -1,6 +1,5 @@
 ## Welcome to my profile! 
 
-<!--
 My name is Julia Moura, and I'm passionate about technology and computer science. I love learning about everything and always enjoy trying new things.
 
 💻 Programming Languages: My favorite language is C++, but I like to experiment with other languages as well, such as Python and more.
@@ -23,5 +22,3 @@ My name is Julia Moura, and I'm passionate about technology and computer science
 <a href="https://github.com/seu-usuario">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=gruvbox" />
 </a>
-
--->
