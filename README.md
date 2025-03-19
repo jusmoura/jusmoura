@@ -14,11 +14,11 @@ My name is Julia Moura, and I'm passionate about technology and computer science
 - 📫 How to reach me: https://www.linkedin.com/in/julia-moura-b877b7269/
 - 😄 Pronouns: she/her
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<a href="[https://github.com/seu-usuario](https://github.com/jusmoura)">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=gruvbox" />
+<a href="https://github.com/jusmoura">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jusmoura&show_icons=true&theme=gruvbox" />
 </a>
-<a href="[https://github.com/seu-usuario](https://github.com/jusmoura)">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=gruvbox" />
+<a href="https://github.com/jusmoura">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusmoura&layout=compact&langs_count=8&theme=gruvbox" />
 </a>
