@@ -11,7 +11,7 @@ My name is Julia Moura, and I'm passionate about technology and computer science
 🚀 Let's Connect! Feel free to explore my repositories and contribute. I'm always open to discussions, collaborations, and new ideas!
 
 - 🔭 I’m currently studying at UFMG
-- 📫 How to reach me: https://www.linkedin.com/in/julia-moura-b877b7269/
+- 📫 How to reach me: https://www.linkedin.com/in/julia-s-moura/
 - 😄 Pronouns: she/her
 
 ## 📊 GitHub Stats  
