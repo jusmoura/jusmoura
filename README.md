@@ -2,7 +2,7 @@
 
 My name is Julia Moura, and I'm passionate about technology and computer science. I love learning about everything and always enjoy trying new things.
 
-💻 Programming Languages: My favorite language is C++, but I like to experiment with other languages as well, such as Python and more.
+💻 Programming Languages: My favorite language is C++ and Python, but I like to experiment with other languages as well, such as Python and more.
 
 🎮 Projects: I develop various projects, some of them are not public, but feel free to connect with me at linkedin, so I can show you!
 
